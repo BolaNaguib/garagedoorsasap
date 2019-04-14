@@ -269,10 +269,7 @@
             </div>
           </div>
         </section>
-        <span class="rating-desc" itemscope="" itemtype="http://schema.org/Product">
- <span itemprop="name">Ian Brodie</span>
- <span itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating"> Rated <span itemprop="ratingValue">5</span> / 5 based on <span itemprop="reviewCount">5</span> reviews. | <a class="ratings" href="https://www.ianbrodie.com/review">Review Me</a> </span>
-</span>
+      
         <?php include('lpfoot.php'); ?><strong></strong><br>Clermont ,FLorida, USA.</p><a href=mailto:garagedoorasapservice@gmail.com class=text-color>garagedoorasapservice@gmail.com</a>
         <p><strong>Call Us:</strong> <a href=tel:3524320886>(352) 432-0886</a>
           <?php include('lpfootafter.php'); ?>

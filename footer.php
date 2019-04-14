@@ -13,7 +13,7 @@
                         <p>
                         <strong></strong> <br />Clermont, FLorida, USA.</p>
                         <!-- Email -->
-                        <a class="text-color" href="mailto:garagedoorasapservice@gmail.com">garagedoorasapservice@gmail.com</a> 
+                        <a class="text-color" href="mailto:garagedoorasapservice@gmail.com">garagedoorasapservice@gmail.com</a>
                         <!-- Phone -->
                         <p>
                         <strong>Call Us:</strong> <a href="tel:+18779197828">1(877) 919-7828</a>
@@ -27,7 +27,7 @@
                                 <ul>
                                     <!-- List Items -->
                                       <li>
-<a href="https://garagedoorasapservice.com/General-Maintnance/">Garage Door General Maintenance</a></li><li>      	          	
+<a href="https://garagedoorasapservice.com/General-Maintnance/">Garage Door General Maintenance</a></li><li>
 <a href="https://garagedoorasapservice.com/Garage-Door-Spring-Replacment/">Garage Door Spring Replacement</a></li><li>
 <a href="https://garagedoorasapservice.com/Garage-Door-Opener-Repair/">Garage Door Opener Repair</a></li><li>
 <a href="https://garagedoorasapservice.com/Garage-door-opener-replacment/">Garage Door Opener Replacement</a></li><li>
@@ -53,11 +53,11 @@
                                 </ul>
                                 <!-- Count -->
                                 <div class="footer-count">
-                                    <p class="count-number" data-count="3550">total projects : 
+                                    <p class="count-number" data-count="3550">total projects :
                                     <span class="counter"></span></p>
                                 </div>
                                 <div class="footer-count">
-                                    <p class="count-number" data-count="2550">happy clients : 
+                                    <p class="count-number" data-count="2550">happy clients :
                                     <span class="counter"></span></p>
                                 </div>
                             </nav>
@@ -67,33 +67,33 @@
                                 <!-- Title -->
                                 <h3 class="title">Follow us</h3>
                             </div>
-                         
+
                             <!-- Social Links -->
                             <div class="social-icon gray-bg icons-circle i-3x">
                             <a href="https://www.facebook.com/Garagedoorasapservice/" target="_blank">
 								<i class="fab fa-facebook-f"></i>
-							</a>  
+							</a>
 							<a href="https://www.youtube.com/channel/UCruZpdtFdDZq0obavLzPdyA" target="_blank">
 								<i class="fab fa-youtube"></i>
-							</a> 
+							</a>
 							<a href="https://goo.gl/maps/N6nmFKD27U82" target="_blank">
 								<i class="fas fa-map-marker-alt"></i>
 							</a>
 						</div>
-                       
-                     
+
+
                         </div>
                         <!-- .newsletter -->
                     </div>
                 </div>
             </div>
             <!-- footer-top -->
-        
+
             <div class="copyright">
                    <div class="footlink">
-            <div class="container"> 
+            <div class="container">
            	 <div class="col-md-9">
-           	 	<h3> <b> Cities we serve</b> </h3> 
+           	 	<h3> <b> Cities we serve</b> </h3>
            	 	 <hr>
             <ul>
 
@@ -143,7 +143,7 @@
 
 </ul>
            	 </div>
-            	<div class="col-md-3"><h3> <b> Counties we serve</b> </h3> 
+            	<div class="col-md-3"><h3> <b> Counties we serve</b> </h3>
            <hr>
            <ul>
            	<li><a href="https://garagedoorasapservice.com/garage_door_repair_Orange_County_Fl/"> Orange County, Florida </a></li>
@@ -154,8 +154,8 @@
 <li><a href="https://garagedoorasapservice.com/garage_door_repair_Pinellas_County_Fl/"> Pinellas County, Florida </a></li>
            </ul> </div>
 
-                       
-         
+
+
            </div>
             </div>
                 <div class="container">
@@ -177,10 +177,10 @@
 </span><br>
                         	 <span>All Tools, Trucks & Parts We Use are American Made, When Avialable</span>
 
-	
+
 </div>
                         </div>
-                       
+
                         <div class="col-xs-12 text-center visible-xs-block page-scroll gray-bg icons-circle i-3x">
                             <!-- Goto Top -->
                             <a href="#page">
@@ -192,66 +192,88 @@
             </div>
             <!-- footer-bottom -->
         </footer>
+        <section>
+
+          <div class="container">
+            <hr>
+
+            <div class="col-md-6">
+              <span style="color:#ffc600" class="rating-desc" itemscope="" itemtype="http://schema.org/Product">
+       <span style="color:#ffc600" itemprop="name">Julie Azcano</span>
+       <span style="color:#ffc600" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating"> Rated <span itemprop="ratingValue">4.9</span> / 5 based on <span itemprop="reviewCount">5</span> reviews. | <a class="ratings" href="https://www.google.com/maps/place/Garage+Door+ASAP+Service/@28.6043929,-81.7609423,17z/data=!4m7!3m6!1s0x88e7894ff1fd8cc3:0x4bd696395a30e80b!8m2!3d28.6043929!4d-81.7587483!9m1!1b1">Review Me</a> </span>
+      </span>
+            </div>
+            <div class="col-md-6">
+              <span style="color:#ffc600">Rated 4.9 Based On 148 Google Reviews</span>
+              <span>
+                <a target="_blank" href="https://www.google.com/maps/place/Garage+Door+ASAP+Service/@28.6043929,-81.7609423,17z/data=!4m7!3m6!1s0x88e7894ff1fd8cc3:0x4bd696395a30e80b!8m2!3d28.6043929!4d-81.7587483!9m1!1b1">Google Reviews</a>
+              </span>
+            </div>
+
+
+          </div>
+
+        </section>
         <!-- footer -->
          	  <a href="#usa"><img src="img/usa.png" style="
     position: absolute;
     right: 10px;
     bottom: 20px;
-"></a> 
+"></a>
     </div>
     <!-- page -->
     <!-- Scripts -->
-    <script type="text/javascript" src="js/jquery.min.js"></script> 
-    <script type="text/javascript" src="js/bootstrap.min.js"></script> 
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <!-- Menu jQuery plugin -->
-     
-    <script type="text/javascript" src="js/hover-dropdown-menu.js"></script> 
-    <!-- Menu jQuery Bootstrap Addon --> 
-    <script type="text/javascript" src="js/jquery.hover-dropdown-menu-addon.js"></script> 
+
+    <script type="text/javascript" src="js/hover-dropdown-menu.js"></script>
+    <!-- Menu jQuery Bootstrap Addon -->
+    <script type="text/javascript" src="js/jquery.hover-dropdown-menu-addon.js"></script>
     <!-- Scroll Top Menu -->
-     
-    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script> 
-    <!-- Sticky Menu --> 
-    <script type="text/javascript" src="js/jquery.sticky.js"></script> 
+
+    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+    <!-- Sticky Menu -->
+    <script type="text/javascript" src="js/jquery.sticky.js"></script>
     <!-- Bootstrap Validation -->
-     
-    <script type="text/javascript" src="js/bootstrapValidator.min.js"></script> 
+
+    <script type="text/javascript" src="js/bootstrapValidator.min.js"></script>
     <!-- Revolution Slider -->
-     
-    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script> 
-    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script> 
-    <script type="text/javascript" src="js/revolution-custom.js"></script> 
+
+    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="js/revolution-custom.js"></script>
     <!-- Portfolio Filter -->
-     
-    <script type="text/javascript" src="js/jquery.mixitup.min.js"></script> 
+
+    <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
     <!-- Animations -->
-     
-    <script type="text/javascript" src="js/jquery.appear.js"></script> 
-    <script type="text/javascript" src="js/effect.js"></script> 
+
+    <script type="text/javascript" src="js/jquery.appear.js"></script>
+    <script type="text/javascript" src="js/effect.js"></script>
     <!-- Owl Carousel Slider -->
-     
-    <script type="text/javascript" src="js/owl.carousel.min.js"></script> 
+
+    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
     <!-- Pretty Photo Popup -->
-     
-    <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script> 
+
+    <script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
     <!-- Parallax BG -->
-     
-    <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script> 
+
+    <script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
     <!-- Fun Factor / Counter -->
-     
-    <script type="text/javascript" src="js/jquery.countTo.js"></script> 
+
+    <script type="text/javascript" src="js/jquery.countTo.js"></script>
 
     <!-- Twitter Feed -->
-     
-    <script type="text/javascript" src="js/tweet/carousel.js"></script> 
-    <script type="text/javascript" src="js/tweet/scripts.js"></script> 
-    <script type="text/javascript" src="js/tweet/tweetie.min.js"></script> 
+
+    <script type="text/javascript" src="js/tweet/carousel.js"></script>
+    <script type="text/javascript" src="js/tweet/scripts.js"></script>
+    <script type="text/javascript" src="js/tweet/tweetie.min.js"></script>
     <!-- Background Video -->
-     
-    <script type="text/javascript" src="js/jquery.mb.YTPlayer.js"></script> 
+
+    <script type="text/javascript" src="js/jquery.mb.YTPlayer.js"></script>
     <!-- Custom Js Code -->
-     
-    <script type="text/javascript" src="js/custom.js"></script> 
+
+    <script type="text/javascript" src="js/custom.js"></script>
      <script type="text/javascript" >
 		$("#sidebarCollapse").click(function(){
         $("#sidebaro").toggle();
