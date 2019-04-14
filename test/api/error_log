@@ -1,0 +1,10 @@
+[22-Jun-2015 14:35:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/zozotfol/public_html/html/metal/demo-dark/api/tweet.php on line 13
+[22-Jun-2015 14:35:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/zozotfol/public_html/html/metal/demo-dark/api/tweet.php on line 13
+[22-Jun-2015 19:53:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/zozotfol/public_html/html/metal/demo-dark/api/tweet.php on line 13
+[22-Jun-2015 19:53:24 Etc/GMT] PHP Notice:  Undefined index: count in /home/zozotfol/public_html/html/metal/demo-dark/api/tweet.php on line 14
+[22-Jun-2015 19:53:24 Etc/GMT] PHP Notice:  Undefined index: exclude_replies in /home/zozotfol/public_html/html/metal/demo-dark/api/tweet.php on line 15
+[22-Jun-2015 19:53:24 Etc/GMT] PHP Notice:  Undefined index: list in /home/zozotfol/public_html/html/metal/demo-dark/api/tweet.php on line 16
+[01-Jul-2015 22:28:44 Etc/GMT] PHP Notice:  Undefined index: username in /home/zozotfol/public_html/html/metal/demo-dark/api/tweet.php on line 13
+[01-Jul-2015 22:28:44 Etc/GMT] PHP Notice:  Undefined index: count in /home/zozotfol/public_html/html/metal/demo-dark/api/tweet.php on line 14
+[01-Jul-2015 22:28:44 Etc/GMT] PHP Notice:  Undefined index: exclude_replies in /home/zozotfol/public_html/html/metal/demo-dark/api/tweet.php on line 15
+[01-Jul-2015 22:28:44 Etc/GMT] PHP Notice:  Undefined index: list in /home/zozotfol/public_html/html/metal/demo-dark/api/tweet.php on line 16
