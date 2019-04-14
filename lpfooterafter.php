@@ -76,9 +76,6 @@
       <div class="col-xs-12 text-center visible-xs-block page-scroll gray-bg icons-circle i-3x"> <a href="#page"> <i class="glyphicon glyphicon-arrow-up"></i> </a></div>
     </div>
   </div>
-</div>
-<section>
-
   <div class="container">
     <hr>
 
@@ -97,8 +94,10 @@
 
 
   </div>
+</div>
 
-</section>
+
+
 </footer> <a href="#usa"><img src="img/usa.png" style=" position: absolute; right: 10px; bottom: 20px; "></a></div>
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
