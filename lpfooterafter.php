@@ -80,16 +80,20 @@
     <hr>
 
     <div class="col-md-6">
-      <span style="color:#ffc600" class="rating-desc" itemscope="" itemtype="http://schema.org/Product">
+      <!-- <span style="color:#ffc600" class="rating-desc" itemscope="" itemtype="http://schema.org/Product">
 <span style="color:#ffc600" itemprop="name">Julie Azcano</span>
-<span style="color:#ffc600" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating"> Rated <span itemprop="ratingValue">4.9</span> / 5 based on <span itemprop="reviewCount">5</span> reviews. | <a class="ratings" href="https://www.google.com/maps/place/Garage+Door+ASAP+Service/@28.6043929,-81.7609423,17z/data=!4m7!3m6!1s0x88e7894ff1fd8cc3:0x4bd696395a30e80b!8m2!3d28.6043929!4d-81.7587483!9m1!1b1">Review Me</a> </span>
-</span>
+<span style="color:#ffc600" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating"> Rated <span itemprop="ratingValue">4.9</span> / 5 based on <span itemprop="reviewCount">5</span> reviews. | </span>
+</span> -->
     </div>
     <div class="col-md-6">
-      <span style="color:#ffc600">Rated 4.9 Based On 148 Google Reviews</span>
-      <span>
-        <a target="_blank" href="https://www.google.com/maps/place/Garage+Door+ASAP+Service/@28.6043929,-81.7609423,17z/data=!4m7!3m6!1s0x88e7894ff1fd8cc3:0x4bd696395a30e80b!8m2!3d28.6043929!4d-81.7587483!9m1!1b1">Google Reviews</a>
+      <span style="color:#ffc600"  class="rating-desc" itemscope="" itemtype="http://schema.org/Product">
+<span  itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" >Rated</span>
+         <span itemprop="ratingValue">4.9</span>/148 Based On <span itemprop="reviewCount">148</span>
+         <a class="ratings"
+         href="https://www.google.com/maps/place/Garage+Door+ASAP+Service/@28.6043929,-81.7609423,17z/data=!4m7!3m6!1s0x88e7894ff1fd8cc3:0x4bd696395a30e80b!8m2!3d28.6043929!4d-81.7587483!9m1!1b1">Google Reviews</a>
+
       </span>
+
     </div>
 
 
