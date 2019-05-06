@@ -1312,7 +1312,19 @@ ul.tags li{float:left;margin:0 3px 3px 0;}
 .blacko h1{color:#db0000;}
 .social a{overflow:hidden;display:inline-block;}
 .social img{width:100px;}
-.mainsec{overflow:hidden;background-image:url(../img/xx.jpg);background-size:cover;display:block;text-align:center;color:#fff;padding:100px 0px;}
+.mainsec{overflow:hidden;
+
+  background-image:url(../img/xx.jpg);
+  background-size:cover;display:block;
+  text-align:center;color:#fff;
+  padding:100px 0px;
+
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    overflow: unset !important;
+  }
+}
+
+
 .header-cta .btn-cta{background-color:#db0000;text-align:center;padding:5px 30px;border-radius:10px;font-size:32px;display:inline;}
 h3.header-cta{display:block;margin-top:30px;}
 .pop-body input{width:90%;margin-left:5%;}
