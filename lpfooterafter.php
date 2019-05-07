@@ -92,7 +92,7 @@
           <span style="color:#ffc600" itemprop="name">GARAGE DOOR ASAP SERVICE, INC</span>
         <span  itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating" >Rated
          <span itemprop="ratingValue">4.9</span>/148 Based On
-         <span itemprop="reviewCount">148</span>
+         <span itemprop="reviewCount">160</span>
          <a class="ratings"
          href="https://www.google.com/maps/place/Garage+Door+ASAP+Service/@28.6043929,-81.7609423,17z/data=!4m7!3m6!1s0x88e7894ff1fd8cc3:0x4bd696395a30e80b!8m2!3d28.6043929!4d-81.7587483!9m1!1b1">Google Reviews</a>
       </span>
