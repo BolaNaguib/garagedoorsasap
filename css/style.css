@@ -1313,7 +1313,7 @@ ul.tags li{float:left;margin:0 3px 3px 0;}
 .social a{overflow:hidden;display:inline-block;}
 .social img{width:100px;}
 .mainsec{
-
+  overflow: unset !important;
   background-image:url(../img/xx.jpg);
   background-size:cover;display:block;
   text-align:center;color:#fff;
