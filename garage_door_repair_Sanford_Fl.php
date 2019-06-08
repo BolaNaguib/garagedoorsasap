@@ -5,7 +5,7 @@
 (function(a,e,c,f,g,h,b,d){var k={ak:"871436987",cl:"oKkdCMf5gHEQu6XEnwM",autoreplace:"(407) 357-0933"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[g]||(a[g]=k.ak);b=e.createElement(h);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(h)[0];d.parentNode.insertBefore(b,d);a[f]=function(b,d,e){a[c](2,b,k,d,null,new Date,e)};a[f]()})(window,document,"_googWcmImpl","_googWcmGet","_googWcmAk","script");
 </script>
         <meta charset="utf-8" />
-        <title>Garage Door Repair Sandord Florida | Garage Door ASAP Service</title>
+        <title>Garage Door Repair Sanford Florida | Garage Door ASAP Service</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta content="Garage Door Repair Sanford, Garage Doors Sanford, Garage Door Service Sanford, Garage Door spring Sanford, Garage Door opener Sanford, Garage Door Repair Sanford FL, Garage Doors Sanford FL, Garage Door Service Sanford FL, Garage Door spring Sanford FL, Garage Door opener Sanford FL, Garage Door Repair Sanford Florida, Garage Doors Sanford Florida, Garage Door Service Sanford Florida, Garage Door spring Sanford Florida, Garage Door opener Sanford Florida"
   name=keywords>
@@ -14,37 +14,37 @@
            <!-- Top Contact -->
                         <div class="top-contact link-hover-black">
                         <a class="haidphone" href="tel:4073570933 ">
-                        <i class="fa fa-phone"></i>(407) 357-0933 </a> 
+                        <i class="fa fa-phone"></i>(407) 357-0933 </a>
                               <?php include('lpnavbarafter.php'); ?>
 
         <!-- slider -->
         <!-- main section -->
-               
+
        <section class="mainsec">
-       	
-       	<h1> Fast, Affordable And Reliable Garage Door Service & Repair Sandord, FL </h1>
-      	     <h4>We Specialize In All Types, Makes and Brands Of Garage Doors 
+
+       	<h1> Fast, Affordable And Reliable Garage Door Service & Repair Sanford, FL </h1>
+      	     <h4>We Specialize In All Types, Makes and Brands Of Garage Doors
 and Garage Door Openers.</h4>
       	     <br>
       	     <br>
        	     <div class="container">
-               
+
         <div class="row">
         	 <h3 class="header-cta"><i class="fa fa-phone" aria-hidden="true"></i> 24/7 Service - <a href="tel:4073570933" class="btn btn-cta">Call (407) 357-0933 </a></h3>
         </div>
                <br>
                <br>
-                 
-   
-       
+
+
+
             </div>
-            
-       
+
+
        </section>
        <section class="lpf">
        	 <div class="row special-feature">
                     <div class="container">
-                    	
+
                      <!-- Special Feature Box 3 -->
                     <div class="col-md-3" data-animation="fadeInUp">
                         <div class="s-feature-box text-center">
@@ -74,25 +74,25 @@ and Garage Door Openers.</h4>
                             <h4>24/7 Emergency Service</h4></div>
                             <div class="mask-bottom">
                             <!-- Icon -->
-                            <i class="far fa-clock"></i> 
+                            <i class="far fa-clock"></i>
                             <!-- Title -->
                             <h4>24/7 Emergency Service</h4>
                             <!-- Text -->
                             <p>We offer 24 hours a day, 7 days a week emergency service</p></div>
                         </div>
                     </div>
-               
+
                     <!-- Special Feature Box 3 -->
                     <div class="col-md-3" data-animation="fadeInRight">
                         <div class="s-feature-box text-center">
                             <div class="mask-top">
                             <!-- Icon -->
-                            <i class="far fa-smile"></i> 
+                            <i class="far fa-smile"></i>
                             <!-- Title -->
                             <h4>Satisfaction Guarantee</h4></div>
                             <div class="mask-bottom">
                             <!-- Icon -->
-                            <i class="far fa-smile"></i> 
+                            <i class="far fa-smile"></i>
                             <!-- Title -->
                             <h4>Satisfaction Guarantee</h4>
                             <!-- Text -->
@@ -117,30 +117,30 @@ and Garage Door Openers.</h4>
 All Tools, Trucks & Parts We Use are American Made, If Available</p></div>
                         </div>
                     </div>
-                    
+
                                    </div>
-   
+
                 </div>
-                         
+
        </section>
-        
+
           <!-- main section -->
- 
+
           <!-- icons -->
-  
+
         <!-- icons -->
-		  
+
         <!-- Services -->
             <section class=" lo garageicon">
             		<div class="container">
-            	
+
             <div class="col-md-2">
             	<div class="servo up ">
 <A id="maintenancetop" style="cursor: pointer;">
 	<img src="ico/General-Maintnance.png">
             		<span> General Maintenance</span>
 </A>
-            		
+
             	</div>
             </div>
             <div class="col-md-2">
@@ -189,15 +189,15 @@ All Tools, Trucks & Parts We Use are American Made, If Available</p></div>
             	</div>
             </div>
            	    </div>
-           	    
-           	
+
+
            	<style>
-				
+
 				.garageicon hr {
-  
+
 }
 				.servo {
-					  
+
 }
 				.servo img {
     transition: 1s;
@@ -232,24 +232,24 @@ text-decoration:none;
     padding: 20px 0px;
     border-radius: 10px;
 }
-						
+
 						</style>
             	</section>
-            	
+
         <section id="who-we-are" class="page-section light-bg border-tb blacko">
             <div class="container who-we-are">
-          
+
                 <div class="row">
                     <div class="col-md-6">
                      <h1> We Are Here To Help! </h1>
                      <p>
-                     	Garage door problems don’t always happen at convenient times. When you have a garage door emergency repair need, you may not be able to wait until normal business hours to address it. 
+                     	Garage door problems don’t always happen at convenient times. When you have a garage door emergency repair need, you may not be able to wait until normal business hours to address it.
 That’s why we make our local technicians available 24 hours a day, 7 days per week. No matter when your garage door stops working, you can trust us to provide prompt, efficient and professional repairs.
 
 No matter what type of garage door repair you face, and what time you face it, our local repair professionals are ready to help, have been thoroughly vetted for their professionalism and expertise and can be at your home or business at any time of day.
                      </p>
                      <h1> Expert Services, 24-Hours A Day, 7 Days A Week! </h1>
-                     <p> Don’t call a less than adequate garage door repair company to service the door at your home or business in Sandord. You should only allow the best to service your garage door or garage door opener. <b>Available for your convenience 24/7. </b> </p>
+                     <p> Don’t call a less than adequate garage door repair company to service the door at your home or business in Sanford. You should only allow the best to service your garage door or garage door opener. <b>Available for your convenience 24/7. </b> </p>
                     </div>
                     <div class="col-md-6">
                    <h1> Garage Door ASAP Service
@@ -261,7 +261,7 @@ No matter what type of garage door repair you face, and what time you face it, o
                    	<li> Family Owned & Operated
 
 </li>
-                   	<li> Same-Day, Local Service in Sandord
+                   	<li> Same-Day, Local Service in Sanford
 
 </li>
                    	<li> No Additional Charges For Nights, Holidays Or Weekends
@@ -271,17 +271,17 @@ No matter what type of garage door repair you face, and what time you face it, o
 
 </li>
                    </ul>
-                   
+
                    <div class="text-center" style="
     margin-top: 35px;
 "> <a href="tel:4073570933" class="btn btn-cta cn" style="
- 
+
 ">Call (407) 357-0933  Now!</a>
                             <br>
                          <a id="callback" class="btn btn-cta cn" style=" cursor: pointer;
- 
+
 ">Request A Callback</a>
-                           
+
                           <!--   <div onclick="document.getElementById('callback').scrollIntoView();" class="btn btn-cta cn" style="
 
 ">
@@ -299,17 +299,17 @@ No matter what type of garage door repair you face, and what time you face it, o
 				<div class="item">
                                 <div class="quote">
                                     <p>"So I just had my tension springs replaced about 2.5 years ago, so I called to same company and the guy that replaced them said that is normal. They only have a 1 year warranty.
-I called ASAP Services and the gentleman explained he has a 3 year warranty and can take care of the problem right away. Our schedules didn't work out on Saturday so he came out Sunday to take care of it. 
+I called ASAP Services and the gentleman explained he has a 3 year warranty and can take care of the problem right away. Our schedules didn't work out on Saturday so he came out Sunday to take care of it.
 Very pleased with job and the time he took to show me some other stuff..
 Great job.."</p>
                                 </div>
                                 <div class="client-details text-left left-align">
-                                  
+
                                     <div class="client-details">
                                     <!-- Name -->
-                                    <strong class="text-color">Shawn C. , Sandord , Florida</strong> 
+                                    <strong class="text-color">Shawn C. , Sanford , Florida</strong>
                                     <!-- Company -->
-                                     
+
                                     <span class="blackx">Source <a target="_blank" href="https://www.yelp.com/biz/garage-door-asap-service-clermont"> Yelp </a></span></div>
                                 </div>
                             </div>
@@ -318,12 +318,12 @@ Great job.."</p>
                                     <p>"ASAP came out right away; even on Memorial Day and just charged the standard service call price plus parts. The gentleman was very professional and got the job done in about 30 minutes. I believe their prices for the parts were comparable or better than others. I was very happy with their service and there's a 3 year warranty on the parts they installed. Thank You!"</p>
                                 </div>
                                 <div class="client-details text-left left-align">
-                                    
+
                                     <div class="client-details">
                                     <!-- Name -->
-                                    <strong class="text-color">Margaret Black , Sandord , Florida</strong> 
+                                    <strong class="text-color">Margaret Black , Sanford , Florida</strong>
                                     <!-- Company -->
-                                     
+
                                     <span class="blackx">Source <a target="_blank" href="https://www.google.com/maps/place/Garage+Door+ASAP+Service/@28.505861,-81.7689547,17z/data=!4m7!3m6!1s0x88e7894ff1fd8cc3:0x4bd696395a30e80b!8m2!3d28.505861!4d-81.766766!9m1!1b1"> Google </a></span></div>
                                 </div>
                             </div>
@@ -332,16 +332,16 @@ Great job.."</p>
                                     <p>"They came to our home at 9:30 pm on a Sunday. Fixed our door and did preventative maintenance all for an outstanding price. Their emergency service is second to none. From first call to completion in about an hour and a half. Thank you for your hard work."</p>
                                 </div>
                                 <div class="client-details text-left left-align">
-                                   
+
                                     <div class="client-details">
                                     <!-- Name -->
-                                    <strong class="text-color">Robert Anthony , Sandord , Florida</strong> 
+                                    <strong class="text-color">Robert Anthony , Sanford , Florida</strong>
                                     <!-- Company -->
-                                     
+
                                     <span class="blackx">Source <a target="_blank" href="https://www.facebook.com/pg/Garagedoorasapservice/reviews/?ref=page_internal"> Facebook </a></span></div>
                                 </div>
                             </div>
-				
+
 			</div>
 			<div class="col-md-4">
 				<div class="form-container" id="callback">
@@ -360,7 +360,7 @@ Great job.."</p>
                                     <div class="form-group">
                                         <label class="form-label">When Would You Like Us To Call You?</label>
                                         <input class="form-control" data-label="time" required="" type="text" name="time" placeholder="Please Enter When You'd Like Us To Call" aria-required="true">
-                                         <input style="display: none;"  type="checkbox" name="city" value="Sandord" aria-required="true" checked>
+                                         <input style="display: none;"  type="checkbox" name="city" value="Sanford" aria-required="true" checked>
 
                                     </div>
                                     <div class="text-center">
@@ -377,17 +377,17 @@ Great job.."</p>
 		</div>
 	</div>
 </section>
-       
-       
+
+
         <section id="spring" class="page-section transparent whiteo">
         	<div class="container">
         		     <div class="row">
-        		               		<div class="col-md-4"> <img alt="Garage Door Spring Replacement" src="img/01.jpg"></div>      		         
+        		               		<div class="col-md-4"> <img alt="Garage Door Spring Replacement" src="img/01.jpg"></div>
 
           		<div class="col-md-8">
-          			<h1> 
-Garage Door Spring Replacement Sandord</h1>
-          			<p> Got a broke spring on your garage door, We've got you covered, Get your Garage Door springs replaced Now!, At Garage Door ASAP Service Sandord It we use the best quality of Garage door springs that lasts you up to 50,000 Cycles. </p>
+          			<h1>
+Garage Door Spring Replacement Sanford</h1>
+          			<p> Got a broke spring on your garage door, We've got you covered, Get your Garage Door springs replaced Now!, At Garage Door ASAP Service Sanford It we use the best quality of Garage door springs that lasts you up to 50,000 Cycles. </p>
           			<ul class="arrow-style">
           				<li> Up to 50,000 Cycles
 
@@ -403,14 +403,14 @@ Garage Door Spring Replacement Sandord</h1>
                                 </div>
         	</div>
         </section>
-        
+
      <section id="replace" class="page-section blacko ">
             <div class="container">
                 <div class="row">
           		<div class="col-md-8">
-          			<h1>Garage Door Opener Replacement Sandord
+          			<h1>Garage Door Opener Replacement Sanford
  </h1>
-          			<p> Having trouble with your garage door opener, Need Help in deciding whether to get it fixed or get it replaced, We've got you covered, We have experience in fixing and installing all the different models and brands of garage door openers, If your better off getting a new opener, We carry the best Garage Door Openers in Sandord, FL.
+          			<p> Having trouble with your garage door opener, Need Help in deciding whether to get it fixed or get it replaced, We've got you covered, We have experience in fixing and installing all the different models and brands of garage door openers, If your better off getting a new opener, We carry the best Garage Door Openers in Sanford, FL.
 </p>
          		<ul class="arrow-style">
          			<li>
@@ -440,23 +440,23 @@ Garage Door Spring Replacement Sandord</h1>
          			</li>
          		</ul>
           		</div>
-          		<div class="col-md-4"> <img src="img/02.jpg"></div>      		         
+          		<div class="col-md-4"> <img src="img/02.jpg"></div>
                                 </div>
- 
+
             </div>
         </section>
-             
+
         <section id="maintenance"  class="page-section transparent whiteo">
         	<div class="container">
         		     <div class="row">
-        		               		<div class="col-md-4"> <img src="img/03.jpg"></div>      		         
+        		               		<div class="col-md-4"> <img src="img/03.jpg"></div>
 
           		<div class="col-md-8">
-          			<h1> Garage Door General Maintenance Sandord
+          			<h1> Garage Door General Maintenance Sanford
 </h1>
           			<p> We Cater To All Your Garage Door Needs.
 
-With decades of experience, we’re prepared to handle any situation. Whether it’s new installations, broken spring replacement, or problems with cables and pulleys, 
+With decades of experience, we’re prepared to handle any situation. Whether it’s new installations, broken spring replacement, or problems with cables and pulleys,
 we do it all!
 
 There’s no extra charge for Sunday service and we perform service and installations year round. When you call, we offer speedy and same-day service. Our team of highly trained technicians arrives prepared to do the job right the first time. We’ll address your situation before and after the work is done. That way you'll never need to call us back to fix a problem.
@@ -465,20 +465,20 @@ There’s no extra charge for Sunday service and we perform service and installa
                                 </div>
         	</div>
         </section>
-        
+
         <section id="shifted" class="page-section blacko ">
             <div class="container">
                 <div class="row">
           		<div class="col-md-6">
-          			<h1>Shifted Garage Door Repair Sandord
+          			<h1>Shifted Garage Door Repair Sanford
 
  </h1>
-          			<p> 
+          			<p>
 An off-track garage door is not pretty, it is also dangerous and unstable. You must never try to operate the garage door manually or with the automatic garage door opener.
 </p>
         		<p>We find out the reason behind off track garage doors like any noticeable damage to the tracks (bent, broken), inappropriate orientation of the tracks or their loosening from the garage wall itself.
 
-        			
+
         		</p>
          		<ul class="arrow-style">
          			<li>
@@ -496,31 +496,31 @@ Final assessment of the garage door to make certain there is not an absent compo
 
 
          			</li>
-         				
+
          		</ul>
           		</div>
 <div class="col-md-6"> <img src="img/services/shifted/33.jpg">
 <br>
                                </div>
                                 </div>
- 
+
             </div>
-        </section>     
+        </section>
         <section id="roller"  class="page-section transparent whiteo">
         	<div class="container">
         		     <div class="row">
         		               		<div class="col-md-4"> <img src="img/services/shifted/99.jpg" style="
     width: 100%;
 ">
-          		</div>      		         
+          		</div>
 
           		<div class="col-md-8">
-          			<h1> Garage Door Rollers Replacments Sandord
+          			<h1> Garage Door Rollers Replacments Sanford
 
 </h1>
-          			<p> Garage door rollers play an important role in the garage door ecosystem. When they run properly; your garage door will operate more efficiently. 
+          			<p> Garage door rollers play an important role in the garage door ecosystem. When they run properly; your garage door will operate more efficiently.
 The life expectancy of most garage door rollers is around 10,000 cycles.
-Garage Door ASAP Service Sandord offers the highest grade Roellers Avialble in the Market, that would last way longer than  most rollers
+Garage Door ASAP Service Sanford offers the highest grade Roellers Avialble in the Market, that would last way longer than  most rollers
  </p>
           		</div>
                                 </div>
@@ -530,7 +530,7 @@ Garage Door ASAP Service Sandord offers the highest grade Roellers Avialble in t
             <div class="container">
                 <div class="row">
           		<div class="col-md-8">
-          			<h1>Garage Door Opener Repair Sandord
+          			<h1>Garage Door Opener Repair Sanford
 
  </h1>
           			<p> Having trouble with your garage door opener, Need Help in deciding whether to get it fixed or get it replaced, We've got you covered, We have experience in fixing all the different models and brands of garage door openers
@@ -538,7 +538,7 @@ Some openers might just need adjustments made to the existing components and doe
 </p>
          		<ul class="arrow-style">
          			<li>
-Replacing the circuit 
+Replacing the circuit
 
 
          			</li>
@@ -558,34 +558,34 @@ Replacement of trolleys
 
          			</li>
          				<li>
-drive trains, drives belts and more 
+drive trains, drives belts and more
 
 
          			</li>
          		</ul>
           		</div>
-          		<div class="col-md-4"> <img src="img/services/openerrepair/3.jpg"></div>      		         
+          		<div class="col-md-4"> <img src="img/services/openerrepair/3.jpg"></div>
                                 </div>
- 
+
             </div>
-        </section>  
-        
+        </section>
+
        <div id="get-quote" class="bg-color black text-center">
             <div class="container">
                 <div class="row get-a-quote xquote">
-                    <div class="col-md-12">Call Us <b> </b>On <a class="black" href="tel:4073570933">(407) 357-0933 </a> & Get The Best Garage Doors Service in Sandord,FL Now!</div>
+                    <div class="col-md-12">Call Us <b> </b>On <a class="black" href="tel:4073570933">(407) 357-0933 </a> & Get The Best Garage Doors Service in Sanford,FL Now!</div>
                 </div>
-                
+
             </div>
         </div>
-       
+
        <section class="page-section gaytop" >
        	<div class="container">
        		<div class="row">
-       		       			<h1>We Will Provide You With The Best Garage Door Service In Sandord,FL</h1>
+       		       			<h1>We Will Provide You With The Best Garage Door Service In Sanford,FL</h1>
 
        			<div class="col-md-4">
-       			
+
        			<ul class="arrow-style">
                                   <li> Best Prices Guaranteed </li>
 <li> Same Day Service </li>
@@ -596,30 +596,30 @@ drive trains, drives belts and more
                                 </ul>
        			</div>
        			<div class="col-md-4">
-       			
+
        			<ul class="arrow-style">
                              <li> Licensed, Bonded and Insured </li>
 
                               <li> 24/7 Emergency Service </li>
 <li> Family Owned & Operated </li>
-<li> Unmatched Customer Service </li>     
+<li> Unmatched Customer Service </li>
                                 </ul>
        			</div>
        			<div class="col-md-4">
-       			
+
        			<ul class="arrow-style">
                                  <li> 100% Satisfaction Guaranteed </li>
 <li> No Extra Charge for Nights </li>
-<li> No Extra Charge for Weekends </li>  
+<li> No Extra Charge for Weekends </li>
                                 </ul>
        			</div>
        		</div>
        	</div>
        </section>
      <?php include('lpfoot.php'); ?>
-         <strong></strong> <br /> Sandord ,FLorida, USA.</p>
+         <strong></strong> <br /> Sanford ,FLorida, USA.</p>
                         <!-- Email -->
-                        <a class="text-color" href="mailto:garagedoorasapservice@gmail.com">garagedoorasapservice@gmail.com</a> 
+                        <a class="text-color" href="mailto:garagedoorasapservice@gmail.com">garagedoorasapservice@gmail.com</a>
                         <!-- Phone -->
                         <p>
                         <strong>Call Us:</strong> <a href="tel:4073570933">(407) 357-0933</a>
